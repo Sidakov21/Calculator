@@ -1,0 +1,4 @@
+C:\Users\Ozrokov\source\repos\КалькуляторАмир\КалькуляторАмир\x64\Debug\КалькуляторАмир.vcxproj.AssemblyReference.cache
+C:\Users\Ozrokov\source\repos\КалькуляторАмир\КалькуляторАмир\x64\Debug\КалькуляторАмир.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ozrokov\source\repos\КалькуляторАмир\КалькуляторАмир\x64\Debug\КалькуляторАмир.MyForm.resources
+C:\Users\Ozrokov\source\repos\КалькуляторАмир\КалькуляторАмир\x64\Debug\КалькуляторАмир.vcxproj.GenerateResource.cache
